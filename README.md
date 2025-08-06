@@ -6,6 +6,10 @@ Alumno : Pérez Alvarado Adán
 
 Matricula : 2233030354
 
+Profesor: Guillermo Monroy Rodriguez
+
+Institución: Universidad Áutonoma Metropolitana Unidad Cuajimalpa
+
 Herramientas utilizadas: Mysql Workbench (Creación de Diagramas y Base de Datos), Visual Studio (Creación de scripts).
 
 ------------------------------------------------------
